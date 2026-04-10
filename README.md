@@ -3,74 +3,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>J. Lopez Photography | Model Call</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background-color: #111;
-      color: #fff;
-    }
-    header {
-      text-align: center;
-      padding: 40px 20px;
-      background: #000;
-    }
-    header h1 {
-      font-size: 2.5rem;
-      margin-bottom: 10px;
-    }
-    header p {
-      color: #ccc;
-    }
-    .gallery {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 20px;
-      padding: 40px;
-    }
-    .gallery img {
-      width: 100%;
-      border-radius: 15px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.5);
-    }
-    .section {
-      text-align: center;
-      padding: 40px 20px;
-    }
-    .section h2 {
-      font-size: 2rem;
-      margin-bottom: 15px;
-    }
-    .cta {
-      margin-top: 20px;
-    }
-    .cta a {
-      text-decoration: none;
-      background: #fff;
-      color: #000;
-      padding: 12px 25px;
-      border-radius: 25px;
-      font-weight: bold;
-      transition: 0.3s;
-    }
-    .cta a:hover {
-      background: #ccc;
-    }
-    footer {
-      text-align: center;
-      padding: 20px;
-      background: #000;
-      color: #777;
-      font-size: 0.9rem;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body><header>
   <h1>J. Lopez Photography</h1>
   <p>Capturing moments. Creating confidence.</p>
 </header><section class="gallery">
-  <img src="photo1.jpg" alt="Model Photo 1">
-  <img src="photo2.jpg" alt="Model Photo 2">
+  <img src="pict/pic 1.jpg" alt="Model Photo 1">
+  <img src="pict/1000014629.jpg" alt="Model Photo 2">
 </section><section class="section">
   <h2>MODEL CALL</h2>
   <p>I’m currently looking for new faces to work with! Whether you’re experienced or just starting, I’d love to create something amazing with you.</p>
